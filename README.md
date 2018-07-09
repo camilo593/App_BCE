@@ -2,4 +2,4 @@
 
 Please read the app file to see the programming. 
 
-The application is running in shinyapps.io in the following link 
+The application is running in shinyapps.io in the following link https://cfgm.shinyapps.io/App_bce/
